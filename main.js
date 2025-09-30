@@ -6,3 +6,4 @@ let lastName = "Vargas"
 
 console.log("Esto es la feature-1");
 console.log("Conflicto desde main");
+console.log("Esto es la conflict-resolution-feature");
